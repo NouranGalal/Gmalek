@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://gmalek.netlify.app/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://gmalek.netlify.app/</loc>
+</url>
+<url>
+<loc>https://gmalek.netlify.app/10-ways-to-get-rid-of-acne/</loc>
+<lastmod>٢٠٢٢-١٢-٠٥T١٠:٢٤:٣٤+٠٢:٠٠</lastmod>
+<image:image>
+<image:loc>https://gmalek.netlify.app/media\posts\2/acne.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://gmalek.netlify.app/face-wash-cleanser/</loc>
+<lastmod>٢٠٢٢-١١-١٦T١٤:٤٩:١٢+٠٢:٠٠</lastmod>
+<image:image>
+<image:loc>https://gmalek.netlify.app/media\posts\1/Gswl-wjh.jpg</image:loc>
+<image:title><![CDATA[إمرأة تقوم بغسل وجهها بغسول]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://gmalek.netlify.app/media\posts\1/skin-cleanser.jpg</image:loc>
+<image:title><![CDATA[ماركة غسول وجه وبشرة]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://gmalek.netlify.app/media\posts\1/home-made-skin-cleanser.jpg</image:loc>
+<image:title><![CDATA[غسول وجه تم إعداده في المنزل]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://gmalek.netlify.app/facial-scrub-creams/</loc>
+<lastmod>٢٠٢٣-٠٢-٠٤T١٢:٤٩:٤٦+٠٢:٠٠</lastmod>
+<image:image>
+<image:loc>https://gmalek.netlify.app/media\posts\3/tqshyr-lbshr.jpg</image:loc>
+<image:title><![CDATA[صورة توضيحية لنتائج تقشير البشرة باستخدام مستحضرات التجميل]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://gmalek.netlify.app/olive-oil-for-skin/</loc>
+<lastmod>٢٠٢٣-٠١-٠٤T١١:٤٨:٢٣+٠٢:٠٠</lastmod>
+<image:image>
+<image:loc>https://gmalek.netlify.app/media\posts\4/olive-oil-for-skin.jpg</image:loc>
+<image:title><![CDATA[استخدام زيت الزيتون لدهان البشرة كما توضحه إمرأة]]></image:title>
+</image:image>
+</url>
+</urlset>
